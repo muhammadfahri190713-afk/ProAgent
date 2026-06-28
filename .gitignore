@@ -1,0 +1,17 @@
+# Secret asli — JANGAN PERNAH commit
+secrets.plain.json
+.env
+.env.*
+
+# Data lokal user
+.proagent_sessions.json
+.proagent_users.json
+
+# Deps & build
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
